@@ -8,7 +8,7 @@ import joblib
 import os
 
 # 设定模型路径
-MODEL_PATH = os.path.join("models", "AdaBoost_optimized_model.pkl")
+MODEL_PATH = os.path.join("训练模型", "AdaBoost_optimized_model.pkl")
 
 
 # ✅ 加载模型（只加载一次，提高性能）
